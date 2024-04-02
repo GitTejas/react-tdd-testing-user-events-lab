@@ -83,7 +83,6 @@ test("the page shows information the user types into the name and email address 
 });
 
 test("checked status of checkboxes changes when user clicks them", () => {
-  // your test code here
 });
 
 test("a message is displayed when the user clicks the Submit button", () => {
